@@ -1,0 +1,18 @@
+S:\Final Project - David and Joe\TextParser\TextParser\bin\Release\TextParser.exe.config
+S:\Final Project - David and Joe\TextParser\TextParser\bin\Release\TextParser.exe
+S:\Final Project - David and Joe\TextParser\TextParser\bin\Release\TextParser.pdb
+S:\Final Project - David and Joe\TextParser\TextParser\obj\Release\TextParser.csprojResolveAssemblyReference.cache
+S:\Final Project - David and Joe\TextParser\TextParser\obj\Release\TextParser.form.resources
+S:\Final Project - David and Joe\TextParser\TextParser\obj\Release\TextParser.Properties.Resources.resources
+S:\Final Project - David and Joe\TextParser\TextParser\obj\Release\TextParser.csproj.GenerateResource.Cache
+S:\Final Project - David and Joe\TextParser\TextParser\obj\Release\TextParser.exe
+S:\Final Project - David and Joe\TextParser\TextParser\obj\Release\TextParser.pdb
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\bin\Release\TextParser.exe.config
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\obj\Release\TextParser.exe
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\obj\Release\TextParser.pdb
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\bin\Release\TextParser.exe
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\bin\Release\TextParser.pdb
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\obj\Release\TextParser.csprojResolveAssemblyReference.cache
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\obj\Release\TextParser.form.resources
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\obj\Release\TextParser.Properties.Resources.resources
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\obj\Release\TextParser.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+S:\Final Project - David and Joe\TextParser\TextParser\bin\Debug\TextParser.exe.config
+S:\Final Project - David and Joe\TextParser\TextParser\obj\Debug\TextParser.csprojResolveAssemblyReference.cache
+S:\Final Project - David and Joe\TextParser\TextParser\obj\Debug\TextParser.form.resources
+S:\Final Project - David and Joe\TextParser\TextParser\obj\Debug\TextParser.Properties.Resources.resources
+S:\Final Project - David and Joe\TextParser\TextParser\obj\Debug\TextParser.csproj.GenerateResource.Cache
+S:\Final Project - David and Joe\TextParser\TextParser\bin\Debug\TextParser.exe
+S:\Final Project - David and Joe\TextParser\TextParser\bin\Debug\TextParser.pdb
+S:\Final Project - David and Joe\TextParser\TextParser\obj\Debug\TextParser.exe
+S:\Final Project - David and Joe\TextParser\TextParser\obj\Debug\TextParser.pdb
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\bin\Debug\TextParser.exe.config
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\bin\Debug\TextParser.exe
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\bin\Debug\TextParser.pdb
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\obj\Debug\TextParser.csprojResolveAssemblyReference.cache
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\obj\Debug\TextParser.form.resources
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\obj\Debug\TextParser.Properties.Resources.resources
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\obj\Debug\TextParser.csproj.GenerateResource.Cache
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\obj\Debug\TextParser.exe
+C:\Users\David\Downloads\TextParser-20170407T200906Z-001\TextParser\TextParser\obj\Debug\TextParser.pdb
